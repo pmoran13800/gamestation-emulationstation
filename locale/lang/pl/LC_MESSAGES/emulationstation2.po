@@ -11,8 +11,8 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 
-msgid "AN UPDATE IS AVAILABLE FOR BATOCERA.LINUX"
-msgstr "NOWA WERSJA BATOCERA.LINUX'A JEST DOSTĘPNA"
+msgid "AN UPDATE IS AVAILABLE FOR GAMESTATION.LINUX"
+msgstr "NOWA WERSJA GAMESTATION.LINUX'A JEST DOSTĘPNA"
 
 msgid "CANCEL"
 msgstr "ANULUJ"
@@ -101,7 +101,7 @@ msgstr[2] "%i GIER ZOSTAŁO POMINIĘTYCH"
 msgid "OK"
 msgstr "OK"
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr ""
 
 msgid "TARGET DEVICE"
@@ -244,7 +244,7 @@ msgstr "URUCHAMIAJ KODI PRZY STARCIE"
 msgid "START KODI WITH X"
 msgstr "WŁĄCZ KODI Z"
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr ""
 
 msgid "SECURITY"

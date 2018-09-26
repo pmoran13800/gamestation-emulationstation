@@ -11,7 +11,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
-msgid "AN UPDATE IS AVAILABLE FOR BATOCERA.LINUX"
+msgid "AN UPDATE IS AVAILABLE FOR GAMESTATION.LINUX"
 msgstr "هناك تحديث جديد متوفر لجهازك"
 
 msgid "CANCEL"
@@ -107,7 +107,7 @@ msgstr[5] "%i لعب تم تجاهلها"
 msgid "OK"
 msgstr "موافق"
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr ""
 
 msgid "TARGET DEVICE"
@@ -252,7 +252,7 @@ msgstr "تشغيل KODI كاافتراضي"
 msgid "START KODI WITH X"
 msgstr "تشغيل KODI بـX"
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr ""
 
 msgid "SECURITY"

@@ -10,8 +10,8 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "AN UPDATE IS AVAILABLE FOR BATOCERA.LINUX"
-msgstr "您的 BATOCERA.LINUX 现在有新版本了"
+msgid "AN UPDATE IS AVAILABLE FOR GAMESTATION.LINUX"
+msgstr "您的 GAMESTATION.LINUX 现在有新版本了"
 
 msgid "CANCEL"
 msgstr "取消"
@@ -96,7 +96,7 @@ msgstr[0] "跳过了 %i 个游戏。"
 msgid "OK"
 msgstr "确定"
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr ""
 
 msgid "TARGET DEVICE"
@@ -241,7 +241,7 @@ msgstr "自动启动 KODI "
 msgid "START KODI WITH X"
 msgstr "按 X 键启动 KODI"
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr ""
 
 msgid "SECURITY"

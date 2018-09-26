@@ -10,8 +10,8 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "AN UPDATE IS AVAILABLE FOR BATOCERA.LINUX"
-msgstr "Er is een update beschikbaar voor je BATOCERA.LINUX"
+msgid "AN UPDATE IS AVAILABLE FOR GAMESTATION.LINUX"
+msgstr "Er is een update beschikbaar voor je GAMESTATION.LINUX"
 
 msgid "CANCEL"
 msgstr "Stoppen"
@@ -100,7 +100,7 @@ msgstr[1] "%i Spellen overgeslagen"
 msgid "OK"
 msgstr "Ok"
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr ""
 
 msgid "TARGET DEVICE"
@@ -245,7 +245,7 @@ msgstr "Kodi bij Starten"
 msgid "START KODI WITH X"
 msgstr "Start Kodi met X"
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr ""
 
 msgid "SECURITY"

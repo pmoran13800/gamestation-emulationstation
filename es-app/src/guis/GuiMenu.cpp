@@ -385,7 +385,7 @@ GuiMenu::GuiMenu(Window *window) : GuiComponent(window), mMenu(window, _("MAIN M
 		       ComponentListRow row;
 		       auto openInstallNow = [this] { mWindow->pushGui(new GuiInstallStart(mWindow)); };
 		       row.makeAcceptInputHandler(openInstallNow);
-		       auto installSettings = std::make_shared<TextComponent>(mWindow, _("INSTALL BATOCERA ON A NEW DISK"),
+		       auto installSettings = std::make_shared<TextComponent>(mWindow, _("INSTALL GAMESTATION ON A NEW DISK"),
 									   Font::get(FONT_SIZE_MEDIUM), 0x777777FF);
 		       auto bracket = makeArrow(mWindow);
 		       row.addElement(installSettings, true);

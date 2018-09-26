@@ -10,7 +10,7 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "AN UPDATE IS AVAILABLE FOR BATOCERA.LINUX"
+msgid "AN UPDATE IS AVAILABLE FOR GAMESTATION.LINUX"
 msgstr "새로운 업데이트를 사용할 수 있습니다."
 
 msgid "CANCEL"
@@ -99,7 +99,7 @@ msgstr[0] "%i 개의 게임을 건너뛰었습니다."
 msgid "OK"
 msgstr "확인"
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr "바투세라 설치"
 
 msgid "TARGET DEVICE"
@@ -244,7 +244,7 @@ msgstr "시작 시 KODI 실행"
 msgid "START KODI WITH X"
 msgstr "X 버튼으로 KODI 실행"
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr "새로운 디스크에 바투세라 설치"
 
 msgid "SECURITY"

@@ -106,7 +106,7 @@ msgstr[1] ""
 msgid "OK"
 msgstr ""
 
-msgid "INSTALL BATOCERA"
+msgid "INSTALL GAMESTATION"
 msgstr ""
 
 msgid "TARGET DEVICE"
@@ -249,7 +249,7 @@ msgstr ""
 msgid "START KODI WITH X"
 msgstr ""
 
-msgid "INSTALL BATOCERA ON A NEW DISK"
+msgid "INSTALL GAMESTATION ON A NEW DISK"
 msgstr ""
 
 msgid "SECURITY"
